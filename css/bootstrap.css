@@ -10299,5 +10299,19 @@ a.text-dark:hover, a.text-dark:focus {
     color: inherit;
     border-color: #dee2e6;
   }
+  body, html {
+    height: 100%;
+  }
+  .bg {
+    background-image: url("https://i.redd.it/iyaacpwpwfr41.png");
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
 }
 /*# sourceMappingURL=bootstrap.css.map */
